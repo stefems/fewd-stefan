@@ -1,0 +1,25 @@
+footer, header {
+	border-style: solid;
+	border-color: black;
+	display: block;
+}
+
+.left{
+	display: inline;
+	float: left;
+	width: 40%;
+	text-align: center;
+}
+.right{
+	display: inline;
+	float: right;
+	width: 40%;
+	text-align: center;
+}
+.middle {
+	width: 100%;
+	display: block;
+}
+
+
+
